@@ -1,4 +1,4 @@
-// JavaScript code to display "Welcome to America" to any IP address
+// I EDITED THIS FILE "Welcome to America" to any IP address
 
 // Function to check if the IP address belongs to America
 function isAmericanIP(ip) {
@@ -21,4 +21,4 @@ function displayWelcomeMessage(ip) {
 
 // Example usage:
 var ipAddress = "192.168.1.1"; // Replace this with any IP address you want to check
-displayWelcomeMessage(ipAddress);
+:WW
